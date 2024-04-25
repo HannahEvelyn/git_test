@@ -5,7 +5,7 @@ Hello Odin!
 
 Git Cheatsheet for learning:
 
-This is a reference list of the most commonly used Git commands. (You might consider bookmarking this handy page.) Try to familiarize yourself with the commands so that you can eventually remember them all:
+This is a reference list of the most commonly used Git commands.
 
 Commands related to a remote repository:
 
@@ -14,8 +14,8 @@ Commands related to a remote repository:
 
 Commands related to the workflow:
 
-- git add .
-- git commit -m "A message describing what you have done to make this snapshot different"
+- git add . (add to staged)
+- git commit -m "A message describing what you have done to make this snapshot different" (commit changes)
 
 Commands related to checking status or log history
 
